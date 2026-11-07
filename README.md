@@ -1,6 +1,7 @@
 # Xinyu (Lexyl) Li
 
 **MS Financial Engineering, NYU Tandon** (expected 2028) · **BS Mathematics, CS minor, UIUC** (2026)
+
 Seeking **Summer 2027** quantitative research and trading internships.
 
 I build quantitative research that is designed to be checked: every headline number has a benchmark it can fail against, and every backtest has a test that tries to break it.
